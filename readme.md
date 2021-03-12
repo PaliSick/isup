@@ -1,6 +1,6 @@
 
 ## Variables
- - server : web donde queremos saber la respuesta
+ - server : web donde queremos saber la respuesta ej: https://vacunacion-sanjuan.sisanjuan.gob.ar/mayores-70-anos 
 
 ## Respuestas
  - ok : Escribe documentos txt, esto se puede cambiar y la dirección igual, puse donde yo los vería, obviamente se pueden escribir en cualquier lugar de acuerdo a los permiso. Intenté hacer sonar un audio pero mi pc no lo permitía así que fui por la más fácil
